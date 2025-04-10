@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CropWise", "CropWise.csproj", "{530BE2E6-C5B5-4D1E-8468-9838F1763D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{530BE2E6-C5B5-4D1E-8468-9838F1763D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530BE2E6-C5B5-4D1E-8468-9838F1763D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530BE2E6-C5B5-4D1E-8468-9838F1763D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530BE2E6-C5B5-4D1E-8468-9838F1763D83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E2728D9-57C9-426E-8CA6-AB94410F0CC9}
+	EndGlobalSection
+EndGlobal
